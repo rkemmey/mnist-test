@@ -1,0 +1,1 @@
+This repo explores a multiclass classification model in pytorch using the MNIST dataset.
